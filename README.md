@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Passionate+Learner;Always+Coding" alt="Typing SVG" /></a>
 </div>
 
-## 🛠️ Tech Stack & Skills
+## ?���?Tech Stack & Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <!-- 아래와 같이 원하는 기술 스택 뱃지를 추가할 수 있습니다 -->
+  <!-- ?�래?� 같이 ?�하??기술 ?�택 뱃�?�?추�??????�습?�다 -->
   <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> -->
 </div>
 
 <br />
 
-## 🥇 백준(Baekjoon) 티어
+## ?�� 백�?(Baekjoon) ?�어
 
 <div align="center">
   <a href="https://solved.ac/gyqls080813">
@@ -32,26 +32,26 @@
 
 <br />
 
-## 📊 GitHub Stats
+## ?�� GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyqls080813&show_icons=true&theme=dracula" alt="gyqls080813's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyqls080813&show_icons=true&theme=dracula&cache_seconds=1800&v=1" alt="gyqls080813's GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyqls080813&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyqls080813&layout=compact&theme=dracula&cache_seconds=1800&v=1" alt="Top Languages" />
 </div>
 
 <br />
 
-## 🏆 GitHub Trophies
+## ?�� GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyqls080813&theme=dracula&margin-w=15&margin-h=15" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gyqls080813&theme=dracula&margin-w=15&margin-h=15&v=1" alt="Trophy" />
 </div>
 
 <br />
 
-## 🟩 3D Contribution Graph (잔디)
+## ?�� 3D Contribution Graph (?�디)
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
