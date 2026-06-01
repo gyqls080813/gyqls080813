@@ -70,7 +70,7 @@
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gyqls080813" height="150" alt="Baekjoon Tier" />
   </a>
   <br/><br/>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="80%" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg?v=2" width="80%" alt="3D Contribution Graph" />
 </div>
 
 <br />
