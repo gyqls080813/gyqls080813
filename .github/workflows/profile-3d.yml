@@ -18,6 +18,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Crop SVG (Remove charts)
+        run: |
+          sed -i 's/height="850"/height="500"/g' profile-3d-contrib/profile-green-animate.svg
+          sed -i 's/viewBox="0 0 1280 850"/viewBox="0 0 1280 500"/g' profile-3d-contrib/profile-green-animate.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions
