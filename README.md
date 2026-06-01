@@ -59,24 +59,7 @@
   </table>
 </div>
 
-<br />
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=gyqls080813&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyqls080813&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=gyqls080813&theme=transparent&no-frame=true&no-bg=true&row=1&column=5" alt="Trophy" />
-</div>
 
 <br />
 
