@@ -1,23 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=이민엽's%20GitHub&fontSize=70&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=이민엽's%20GitHub&fontSize=70&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62" />
   
   <br />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Passionate+Learner;Always+Coding" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Frontend+Developer;단순한+기능+구현을+넘어;최적의+웹+경험을+고민합니다" alt="Typing SVG" /></a>
 </div>
 
 <br />
 
 <div align="center">
   <h2>🧑‍💻 Contact Me 🧑‍💻</h2>
-  <a href="https://티스토리주소"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" /></a>
-  <a href="https://노션주소"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /></a>
-  <a href="https://instagram.com/인스타아이디"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:이메일주소"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:gyqls080813@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
   <a href="https://github.com/gyqls080813"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Phone-010--8807--5927-555555?style=for-the-badge" />
 
   <br /><br />
   <h3>📧 Email</h3>
-  <p><strong>이메일_주소를_입력해주세요@gmail.com</strong></p>
+  <p><strong>gyqls080813@naver.com</strong></p>
 </div>
 
 <br />
@@ -25,27 +23,38 @@
 <div align="center">
   <h2>✨ Tech Stack ✨</h2>
   
-  <h3>Frontend</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <h3>🚀 Frontend Core</h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Effect_TS-1A1A1A?style=for-the-badge" />
   
   <br />
   
-  <h3>Backend</h3>
+  <h3>💡 State & UI</h3>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-4A3629?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+  <br />
+
+  <h3>🛠️ Testing & Infra</h3>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+
+  <br />
+
+  <h3>🔌 Communication & Data</h3>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSE-007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <br />
-
-  <h3>Tools</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 <br />
