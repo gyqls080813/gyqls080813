@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=이민엽's%20GitHub&fontSize=70&fontAlignY=38&desc=Frontend%20Developer&descAlignY=51&descAlign=62" />
   
   <br />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Frontend+Developer;단순한+기능+구현을+넘어;최적의+웹+경험을+고민합니다" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=450&lines=Frontend+Developer;%EB%8B%A8%EC%88%9C%ED%95%9C+%EA%B8%B0%EB%8A%A5+%EA%B5%AC%ED%98%84%EC%9D%84+%EB%84%98%EC%96%B4;%EC%B5%9C%EC%A0%81%EC%9D%98+%EC%9B%B9+%EA%B2%BD%ED%97%98%EC%9D%84+%EA%B3%A0%EB%AF%BC%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
 </div>
 
 <br />
@@ -70,10 +70,10 @@
 
 <div align="center">
   <h2>📋 Stats & Trophies 📋</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=gyqls080813&show_icons=true&theme=radical&cache_seconds=1800&v=1" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyqls080813&layout=compact&theme=radical&cache_seconds=1800&v=1" height="190" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gyqls080813&show_icons=true&theme=radical" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyqls080813&layout=compact&theme=radical" height="190" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=gyqls080813&theme=radical&row=1&column=4&margin-w=15&margin-h=15&v=1" height="190" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gyqls080813&theme=radical&row=1&column=4&margin-w=15&margin-h=15" height="190" alt="Trophy" />
 </div>
 
 <br />
